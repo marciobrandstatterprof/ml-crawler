@@ -34,7 +34,7 @@ ml-crawler
 ==========
 
 
-    Add a short description here!
+    This project its a example of crawler in site https://mercadolivre.com.br 
 
 
 A longer description of your project goes here...

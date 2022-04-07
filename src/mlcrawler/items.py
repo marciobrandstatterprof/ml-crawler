@@ -7,6 +7,11 @@ import scrapy
 
 
 class MlcrawlerItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    title = scrapy.Field()
+    seller = scrapy.Field()
+    price = scrapy.Field()
+    discount = scrapy.Field()
+    old_price = scrapy.Field()
+    shipping = scrapy.Field()
+    link = scrapy.Field()
+    
